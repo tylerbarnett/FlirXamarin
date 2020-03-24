@@ -1,291 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090344cf-28d3-4bd7-896d-a08cb6628062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlirBindXam/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlirThermal/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/FlirThermal/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FlirThermal/xs/UserPrefs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/FlirThermal/xs/project-cache/FlirBindXam-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FlirThermal/xs/project-cache/FlirBindXam-Debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/FlirThermal/xs/project-cache/FlirThermal-Debug|iPhoneSimulator.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FlirThermal/xs/project-cache/FlirThermal-Debug|iPhoneSimulator.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal.sln" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/FlirThermal.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/FlirThermal.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/ViewController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/ViewController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/FlirThermal.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/FlirThermal.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/FlirThermalLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/FlirThermalLib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/NativeLibrary.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/NativeLibrary.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/AppIcon60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/AppIcon76x76@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/Assets.car" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/Main.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/bin/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/FlirThermal.app/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/FlirThermal.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/FlirThermal.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/FlirThermal.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/FlirThermal.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/actool/bundle/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/actool/bundle/Assets.car" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool-link/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/FlirThermal.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/_PartialAppManifest.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/asset-manifest.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/bundle/AppIcon60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/bundle/AppIcon76x76@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/bundle/Assets.car" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon167.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon80.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Icon87.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/actool/partial-info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/coremlc/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/coremlc/_PartialAppManifest.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/Main.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-link/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-manifests/LaunchScreen.storyboardc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-manifests/Main.storyboardc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool-manifests/link" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/Main.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/ibtool/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/FlirThermal.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/FlirThermal.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/Mono.Security.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/NativeLibrary.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/NativeLibrary.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Core.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Drawing.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Net.Http.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Numerics.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.Xml.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/System.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/Xamarin.iOS.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/1-Link/mscorlib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/FlirThermal.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/FlirThermal.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/Mono.Security.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/NativeLibrary.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/NativeLibrary.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Core.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Drawing.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Net.Http.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Numerics.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.Xml.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/System.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/Xamarin.iOS.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/Xamarin.iOS.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/2-PreBuild/mscorlib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/FlirThermal.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/FlirThermal.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/Mono.Security.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/NativeLibrary.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/NativeLibrary.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Core.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Drawing.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Net.Http.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Numerics.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.Xml.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/System.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/Xamarin.iOS.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/Xamarin.iOS.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/3-Build/mscorlib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/assembly-references.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/entry-points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/linked-assemblies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/mono-native-info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/x86_64/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/mtouch-cache/x86_64/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/iPhoneSimulator/Debug/device-builds/iphone12.3-13.3/response-file.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlirThermal/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/ApiDefinition.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/FlirThermalLib.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/Structs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/bin/Debug/FlirThermalLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/bin/Debug/FlirThermalLib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/bin/Release/FlirThermalLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/FlirThermalLib.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/FlirThermalLib.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/FlirThermalLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/FlirThermalLib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/LinkWithAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/Constants.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRAdapterInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRBattery.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCalibration.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCamera.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCameraDeviceInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCameraEvent.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCameraImport.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCameraImportEventDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRCameraInformation.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRDataReceivedDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRDiscovery.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRDiscoveryEventDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRFileObject.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRFusion.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRIdentity.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRImageBase.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRImageParameters.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRImageStatistics.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRIpSettings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementArea.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementCircle.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementCollection.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementLine.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementMarker.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementParameters.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementRectangle.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementShape.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeasurementSpot.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeterLinkDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeterLinkDevice.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeterLinkDeviceChannel.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeterLinkDeviceInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRMeterLinkManager.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRPalette.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRPaletteManager.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRRemoteControl.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRRemoteDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRScale.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRStorage.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRThermalImage.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRThermalImageFile.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FLIRThermalValue.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/FlirBinder.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/Libraries.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/Messaging.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/SupportDelegates.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/Trampolines.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/sources.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/temp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Debug/ios/temp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/FlirThermalLib.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/FlirThermalLib.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/FlirThermalLib.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/FlirThermalLib.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/FlirThermalLib.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/FlirThermalLib.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/FlirThermalLib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/LinkWithAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/Constants.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRAdapterInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRBattery.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCalibration.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCamera.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCameraDeviceInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCameraEvent.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCameraImport.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCameraImportEventDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRCameraInformation.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRDataReceivedDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRDiscovery.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRDiscoveryEventDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRFileObject.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRFusion.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRIdentity.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRImageBase.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRImageParameters.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRImageStatistics.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRIpSettings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementArea.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementCircle.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementCollection.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementLine.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementMarker.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementParameters.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementRectangle.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementShape.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeasurementSpot.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeterLinkDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeterLinkDevice.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeterLinkDeviceChannel.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeterLinkDeviceInfo.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRMeterLinkManager.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRPalette.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRPaletteManager.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRRemoteControl.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRRemoteDelegate.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRScale.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRStorage.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRThermalImage.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRThermalImageFile.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FLIRThermalValue.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/FlirBinder.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/Libraries.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/Messaging.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/SupportDelegates.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/Trampolines.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/sources.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/temp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/Release/ios/temp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlirThermalLib/obj/project.assets.json" beforeDir="false" />
-    </list>
+    <list default="true" id="090344cf-28d3-4bd7-896d-a08cb6628062" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -296,8 +12,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FlirThermal/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8323757-151F-4DBA-A07C-CEC093758746/b5/673fd90b/GpsInformation_t.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlirThermal/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlirThermalBinding/obj/Debug/ios/FLIRImageBase.g.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlirThermalBinding/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlirThermalBinding/Structs.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -314,6 +31,7 @@
         <option value="$PROJECT_DIR$/FlirBindXam/ApiDefinition.cs" />
         <option value="$PROJECT_DIR$/FlirThermal/ViewController.cs" />
         <option value="$PROJECT_DIR$/FlirThermalBinding/ApiDefinition.cs" />
+        <option value="$PROJECT_DIR$/FlirThermalBinding/Structs.cs" />
       </list>
     </option>
   </component>
@@ -364,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585072180130</updated>
-      <workItem from="1585072182085" duration="15178000" />
+      <workItem from="1585072182085" duration="15458000" />
     </task>
     <servers />
   </component>

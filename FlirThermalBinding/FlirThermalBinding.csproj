@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <NativeReference Include="..\..\FlirCamera\libFlirBinder.a">
-      <Kind>Static</Kind>
+      <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
     </NativeReference>
   </ItemGroup>
