@@ -1,0 +1,10 @@
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/bin/Debug/FlirThermalLib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/bin/Debug/FlirThermalLib.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/Debug/FlirThermalLib.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/Debug/FlirThermalLib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/Debug/FlirThermalLib.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalLib/bin/Debug/FlirThermalLib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalLib/bin/Debug/FlirThermalLib.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalLib/obj/Debug/FlirThermalLib.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalLib/obj/Debug/FlirThermalLib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalLib/obj/Debug/FlirThermalLib.pdb

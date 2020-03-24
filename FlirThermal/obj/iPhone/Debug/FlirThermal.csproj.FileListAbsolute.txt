@@ -1,0 +1,8 @@
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/optimized/
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.csprojAssemblyReference.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.csproj.CoreCompileInputs.cache

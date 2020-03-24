@@ -1,0 +1,3 @@
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/Release/FlirThermalLib.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/bin/Release/FlirThermalLib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/Release/FlirThermalLib.dll

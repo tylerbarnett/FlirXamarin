@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/FlirThermal.csproj": {}
+  },
+  "projects": {
+    "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/FlirThermal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/FlirThermal.csproj",
+        "projectName": "FlirThermal",
+        "projectPath": "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/FlirThermal.csproj",
+        "packagesPath": "/Users/tylerbarnett/.nuget/packages/",
+        "outputPath": "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/tylerbarnett/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj": {
+                "projectPath": "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj",
+        "projectName": "FlirThermalLib",
+        "projectPath": "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj",
+        "packagesPath": "/Users/tylerbarnett/.nuget/packages/",
+        "outputPath": "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/tylerbarnett/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    }
+  }
+}

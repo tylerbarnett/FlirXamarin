@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="090344cf-28d3-4bd7-896d-a08cb6628062" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRImageBase.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlirThermal/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Structs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/Structs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8323757-151F-4DBA-A07C-CEC093758746/b5/673fd90b/GpsInformation_t.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRStorage.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRThermalImage.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/Structs.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/ApiDefinition.cs" />
+        <option value="$PROJECT_DIR$/../libFlirBinder/libFlirBinder/ApiDefinition.cs" />
+        <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/FlirThermal/ViewController.cs" />
+        <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/ApiDefinition.cs" />
+        <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Structs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZaLInrl6QLKuFDsA13HljQtWWq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Device#class com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSConnectedDeviceKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="Ty’s Iphone." />
+    <property name="Device#class com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSSimulatorKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="iPhone 11 Pro" />
+    <property name="DeviceKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="Simulator" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FlirThermal/FlirThermal.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="090344cf-28d3-4bd7-896d-a08cb6628062" name="Default Changelist" comment="" />
+      <created>1585072180130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585072180130</updated>
+      <workItem from="1585072182085" duration="11082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="2067" y="405" key="run.anything.popup" timestamp="1585082967127">
+      <screen x="0" y="23" width="3840" height="2137" />
+    </state>
+    <state x="2067" y="405" key="run.anything.popup/0.23.3840.2137/3840.23.2048.1257@0.23.3840.2137" timestamp="1585082967127" />
+  </component>
+</project>
