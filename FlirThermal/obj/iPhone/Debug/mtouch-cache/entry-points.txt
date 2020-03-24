@@ -1,0 +1,103 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRAdapterInfo
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRBattery
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FlirBinder
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCalibration
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCamera
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCameraDeviceInfo
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCameraEvent
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCameraImport
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRCameraInformation
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRDiscovery
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRFileObject
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRFusion
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRIdentity
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRImageBase
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRImageParameters
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRImageStatistics
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRIpSettings
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementArea
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementCircle
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementCollection
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementLine
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementMarker
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementParameters
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementRectangle
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementShape
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeasurementSpot
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeterLinkDevice
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeterLinkDeviceChannel
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeterLinkDeviceInfo
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRMeterLinkManager
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRPalette
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRPaletteManager
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRRemoteControl
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRScale
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRStorage
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRThermalImage
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRThermalImageFile
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$_FLIRThermalValue
+	/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+Function=mono_pmip

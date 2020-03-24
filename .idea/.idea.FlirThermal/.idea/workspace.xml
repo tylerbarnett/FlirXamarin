@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090344cf-28d3-4bd7-896d-a08cb6628062" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlirBindXam/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlirThermal/.idea/workspace.xml" afterDir="false" />
@@ -294,21 +295,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRImageBase.g.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlirThermal/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Structs.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/Structs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8323757-151F-4DBA-A07C-CEC093758746/b5/673fd90b/GpsInformation_t.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FlirBindXam/Structs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FlirBindXam/ApiDefinition.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../FlirCamera/FlirBindXam/FlirBindXam/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRStorage.g.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRThermalImage.g.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../libFlirBinder/libFlirBinder/Structs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlirThermalBinding/ApiDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlirThermalBinding/Structs.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -318,10 +309,11 @@
         <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Properties/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/ApiDefinition.cs" />
         <option value="$PROJECT_DIR$/../FlirThermalLib/FlirThermalLib/Structs.cs" />
-        <option value="$PROJECT_DIR$/FlirThermal/ViewController.cs" />
         <option value="$PROJECT_DIR$/FlirThermalLib/ApiDefinition.cs" />
         <option value="$PROJECT_DIR$/FlirBindXam/Structs.cs" />
         <option value="$PROJECT_DIR$/FlirBindXam/ApiDefinition.cs" />
+        <option value="$PROJECT_DIR$/FlirThermal/ViewController.cs" />
+        <option value="$PROJECT_DIR$/FlirThermalBinding/ApiDefinition.cs" />
       </list>
     </option>
   </component>
@@ -343,13 +335,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Xamarin.iOS.FlirBindXam">
+    <configuration name="FlirBindXam" type="XamarinIOSProject" factoryName="Xamarin.iOS" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FlirBindXam/FlirBindXam.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/FlirThermal/FlirThermal.csproj" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="IS_PASS_PARENT_ENVS" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Xamarin.iOS.FlirBindXam" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -361,7 +364,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585072180130</updated>
-      <workItem from="1585072182085" duration="13348000" />
+      <workItem from="1585072182085" duration="15178000" />
     </task>
     <servers />
   </component>
@@ -382,6 +385,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1977" y="603" width="694" height="518" key="find.popup" timestamp="1585089641691">
+      <screen x="0" y="23" width="3840" height="2137" />
+    </state>
+    <state x="1977" y="603" width="694" height="518" key="find.popup/0.23.3840.2137/3840.23.2048.1257@0.23.3840.2137" timestamp="1585089641691" />
     <state x="2067" y="405" key="run.anything.popup" timestamp="1585082967127">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>

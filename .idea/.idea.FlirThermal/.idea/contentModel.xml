@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$/.." t="Include">
-      <e p="FlirThermal" t="IncludeFlat">
-        <e p="FlirBindXam" t="IncludeRecursive">
-          <e p="ApiDefinition.cs" t="Include" />
-          <e p="bin" t="ExcludeRecursive" />
-          <e p="FlirBindXam.csproj" t="IncludeRecursive" />
-          <e p="obj" t="ExcludeRecursive" />
-          <e p="Properties" t="Include">
-            <e p="AssemblyInfo.cs" t="Include" />
-          </e>
-          <e p="Resources" t="Include" />
-          <e p="Structs.cs" t="Include" />
-        </e>
-        <e p="FlirThermal" t="IncludeRecursive">
-          <e p="AppDelegate.cs" t="Include" />
-          <e p="Assets.xcassets" t="Include">
-            <e p="AppIcon.appiconset" t="Include">
-              <e p="Contents.json" t="Include" />
-              <e p="Icon1024.png" t="Include" />
-              <e p="Icon120.png" t="Include" />
-              <e p="Icon152.png" t="Include" />
-              <e p="Icon167.png" t="Include" />
-              <e p="Icon180.png" t="Include" />
-              <e p="Icon20.png" t="Include" />
-              <e p="Icon29.png" t="Include" />
-              <e p="Icon40.png" t="Include" />
-              <e p="Icon58.png" t="Include" />
-              <e p="Icon60.png" t="Include" />
-              <e p="Icon76.png" t="Include" />
-              <e p="Icon80.png" t="Include" />
-              <e p="Icon87.png" t="Include" />
-            </e>
-          </e>
-          <e p="bin" t="ExcludeRecursive" />
-          <e p="Entitlements.plist" t="Include" />
-          <e p="FlirThermal.csproj" t="IncludeRecursive" />
-          <e p="Info.plist" t="Include" />
-          <e p="LaunchScreen.storyboard" t="Include" />
-          <e p="Main.cs" t="Include" />
-          <e p="Main.storyboard" t="Include" />
-          <e p="obj" t="ExcludeRecursive" />
-          <e p="Resources" t="Include" />
-          <e p="SceneDelegate.cs" t="Include" />
-          <e p="ViewController.cs" t="Include" />
-          <e p="ViewController.designer.cs" t="Include" />
-        </e>
-        <e p="FlirThermal.sln" t="IncludeFlat" />
-        <e p="packages" t="ExcludeRecursive" />
-      </e>
+    <e p="$PROJECT_DIR$/../FlirCamera" t="Include">
       <e p="libFlirBinder.a" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FlirThermal" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+            <e p="Icon1024.png" t="Include" />
+            <e p="Icon120.png" t="Include" />
+            <e p="Icon152.png" t="Include" />
+            <e p="Icon167.png" t="Include" />
+            <e p="Icon180.png" t="Include" />
+            <e p="Icon20.png" t="Include" />
+            <e p="Icon29.png" t="Include" />
+            <e p="Icon40.png" t="Include" />
+            <e p="Icon58.png" t="Include" />
+            <e p="Icon60.png" t="Include" />
+            <e p="Icon76.png" t="Include" />
+            <e p="Icon80.png" t="Include" />
+            <e p="Icon87.png" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="FlirThermal.csproj" t="IncludeRecursive" />
+        <e p="Info.plist" t="Include" />
+        <e p="LaunchScreen.storyboard" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="Main.storyboard" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Resources" t="Include" />
+        <e p="SceneDelegate.cs" t="Include" />
+        <e p="ViewController.cs" t="Include" />
+        <e p="ViewController.designer.cs" t="Include" />
+      </e>
+      <e p="FlirThermal.sln" t="IncludeFlat" />
+      <e p="FlirThermalBinding" t="IncludeRecursive">
+        <e p="ApiDefinition.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FlirThermalBinding.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include" />
+        <e p="Structs.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_FlirThermal.230844224.00" t="ExcludeRecursive" />

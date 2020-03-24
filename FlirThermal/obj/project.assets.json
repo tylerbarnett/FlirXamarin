@@ -14,6 +14,16 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
+      },
+      "NativeLibrary/1.0.0": {
+        "type": "project",
+        "framework": "Xamarin.iOS,Version=v1.0",
+        "compile": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -28,6 +38,16 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "NativeLibrary/1.0.0": {
+        "type": "project",
+        "framework": "Xamarin.iOS,Version=v1.0",
+        "compile": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NativeLibrary.dll": {}
         }
       }
     },
@@ -44,6 +64,16 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
+      },
+      "NativeLibrary/1.0.0": {
+        "type": "project",
+        "framework": "Xamarin.iOS,Version=v1.0",
+        "compile": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -58,6 +88,16 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "NativeLibrary/1.0.0": {
+        "type": "project",
+        "framework": "Xamarin.iOS,Version=v1.0",
+        "compile": {
+          "bin/placeholder/NativeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NativeLibrary.dll": {}
         }
       }
     }
@@ -110,10 +150,16 @@
         "xamarin.essentials.1.5.1.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
+    },
+    "NativeLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FlirThermalBinding/FlirThermalBinding.csproj",
+      "msbuildProject": "../FlirThermalBinding/FlirThermalBinding.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
+      "NativeLibrary >= 1.0.0",
       "Xamarin.Essentials >= 1.5.1"
     ]
   },
@@ -141,7 +187,11 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/FlirThermalBinding.csproj": {
+              "projectPath": "/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/FlirThermalBinding.csproj"
+            }
+          }
         }
       }
     },

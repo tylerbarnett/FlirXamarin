@@ -1,20 +1,13 @@
 ﻿<Properties StartupConfiguration="{3CE2609D-EA21-4619-BCCF-B4D0032B5863}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FlirBindXam/ApiDefinition.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlirThermal/ViewController.cs">
     <Files>
-      <File FileName="FlirThermal/ViewController.cs" Line="1" Column="19" />
-      <File FileName="FlirBindXam/ApiDefinition.cs" Line="11" Column="2" />
-      <File FileName="FlirBindXam/Structs.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="FlirThermal/ViewController.cs" Line="12" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FlirThermal" expanded="True">
-            <Node name="FlirBindXam" expanded="True">
-              <Node name="ApiDefinition.cs" selected="True" />
-            </Node>
-            <Node name="FlirThermal" expanded="True">
-              <Node name="References" expanded="True" />
-            </Node>
+            <Node name="FlirThermal" expanded="True" />
           </Node>
         </State>
       </Pad>

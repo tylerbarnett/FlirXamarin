@@ -1,0 +1,17 @@
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.exe
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/NativeLibrary.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/NativeLibrary.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/optimized/
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.csprojAssemblyReference.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.csproj.CopyComplete
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.exe
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/FlirThermal.pdb

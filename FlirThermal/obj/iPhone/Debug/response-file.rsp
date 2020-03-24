@@ -1,0 +1,28 @@
+--cache=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache
+--dev=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app
+--executable=FlirThermal
+ --debug
+ --sgen-conc
+ --linksdkonly
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=13.2
+--targetver=13.0
+ --aot-options=-O=-float32
+ --http-message-handler=NSUrlSessionHandler
+ --abi=arm64
+--symbollist=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-symbols.list
+ --dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/bin/Debug/NativeLibrary.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+-r=/Users/tylerbarnett/.nuget/packages/xamarin.essentials/1.5.1/lib/xamarinios10/Xamarin.Essentials.dll
+-r=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/bin/Debug/NativeLibrary.dll
+ --target-framework=Xamarin.iOS,v1.0
+--root-assembly=/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.exe

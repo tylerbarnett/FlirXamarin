@@ -1,0 +1,6 @@
+RemoveDynamicRegistrar:true
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app:/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/FlirThermal.exe
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app:/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app:/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app:/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/System.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/bin/iPhone/Debug/FlirThermal.app:/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermal/obj/iPhone/Debug/mtouch-cache/1-Link/NativeLibrary.dll

@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/13.14.1.39/lib/msbuild/iOS/Xamarin.iOS.ObjCBinding.CSharp.targets">
+    <Files>
+      <File FileName="FlirBindXam/ApiDefinition.cs" Line="18" Column="24" />
+      <File FileName="FlirBindXam/Structs.cs" Line="15" Column="18" />
+      <File FileName="FlirBindXam/Properties/AssemblyInfo.cs" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.ObjCBinding.CSharp.targets" Line="63" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlirBindXam" expanded="True">
+            <Node name="FlirBindXam" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="NativeReferenceFolder" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

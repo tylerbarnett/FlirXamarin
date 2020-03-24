@@ -1,0 +1,12 @@
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/bin/Debug/NativeLibrary.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/bin/Debug/NativeLibrary.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/obj/Debug/FlirThermalBinding.csprojAssemblyReference.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/obj/Debug/FlirThermalBinding.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/obj/Debug/NativeLibrary.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermalBinding/FlirThermalBinding/obj/Debug/NativeLibrary.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/bin/Debug/NativeLibrary.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/bin/Debug/NativeLibrary.pdb
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/obj/Debug/FlirThermalBinding.csprojAssemblyReference.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/obj/Debug/FlirThermalBinding.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/obj/Debug/NativeLibrary.dll
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirThermalBinding/obj/Debug/NativeLibrary.pdb

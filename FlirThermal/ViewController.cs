@@ -1,7 +1,6 @@
-﻿using FlirBindXam;
+﻿using FlirThermalBinding;
 using Foundation;
 using System;
-
 using UIKit;
 
 
