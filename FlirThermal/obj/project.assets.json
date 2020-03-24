@@ -14,16 +14,6 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
-      },
-      "FlirThermalLib/1.0.0": {
-        "type": "project",
-        "framework": "Xamarin.iOS,Version=v1.0",
-        "compile": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -38,16 +28,6 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
-        }
-      },
-      "FlirThermalLib/1.0.0": {
-        "type": "project",
-        "framework": "Xamarin.iOS,Version=v1.0",
-        "compile": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FlirThermalLib.dll": {}
         }
       }
     },
@@ -64,16 +44,6 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
-      },
-      "FlirThermalLib/1.0.0": {
-        "type": "project",
-        "framework": "Xamarin.iOS,Version=v1.0",
-        "compile": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -88,16 +58,6 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
-        }
-      },
-      "FlirThermalLib/1.0.0": {
-        "type": "project",
-        "framework": "Xamarin.iOS,Version=v1.0",
-        "compile": {
-          "bin/placeholder/FlirThermalLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FlirThermalLib.dll": {}
         }
       }
     }
@@ -150,16 +110,10 @@
         "xamarin.essentials.1.5.1.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
-    },
-    "FlirThermalLib/1.0.0": {
-      "type": "project",
-      "path": "../../FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj",
-      "msbuildProject": "../../FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "FlirThermalLib >= 1.0.0",
       "Xamarin.Essentials >= 1.5.1"
     ]
   },
@@ -187,11 +141,7 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {
-            "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj": {
-              "projectPath": "/Users/tylerbarnett/Documents/Projects/FlirThermalLib/FlirThermalLib/FlirThermalLib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

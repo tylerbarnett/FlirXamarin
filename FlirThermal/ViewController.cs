@@ -1,6 +1,7 @@
-﻿using Foundation;
+﻿using FlirBindXam;
+using Foundation;
 using System;
-using libFlirBinder;
+
 using UIKit;
 
 

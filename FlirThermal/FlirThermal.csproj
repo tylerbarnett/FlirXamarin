@@ -145,9 +145,9 @@
         </Compile>
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\FlirThermalLib\FlirThermalLib.csproj">
-        <Project>{31098DF5-C5F0-4666-B535-C777266ED07D}</Project>
-        <Name>FlirThermalLib</Name>
+      <ProjectReference Include="..\FlirBindXam\FlirBindXam.csproj">
+        <Project>{4F30CB5D-1C03-469E-86FA-EBF62C415EF1}</Project>
+        <Name>FlirBindXam</Name>
       </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

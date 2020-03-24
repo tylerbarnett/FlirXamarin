@@ -1,0 +1,2 @@
+/Users/tylerbarnett/Documents/Projects/FlirCamera/FlirBindXam/FlirBindXam/obj/Debug/FlirBindXam.csprojAssemblyReference.cache
+/Users/tylerbarnett/Documents/Projects/FlirThermal/FlirBindXam/obj/Debug/FlirBindXam.csprojAssemblyReference.cache

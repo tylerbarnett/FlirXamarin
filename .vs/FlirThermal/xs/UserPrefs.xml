@@ -1,28 +1,30 @@
 ﻿<Properties StartupConfiguration="{3CE2609D-EA21-4619-BCCF-B4D0032B5863}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlirBindXam/ApiDefinition.cs">
     <Files>
-      <File FileName="FlirThermal/ViewController.cs" Line="13" Column="35" />
-      <File FileName="../FlirCamera/FlirBindXam/FlirBindXam/ApiDefinition.cs" Line="347" Column="28" />
-      <File FileName="FlirThermal/Info.plist" />
-      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.ObjCBinding.CSharp.targets" Line="63" Column="3" />
-      <File FileName="../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRImageBase.g.cs" Line="169" Column="1" />
-      <File FileName="../libFlirBinder/libFlirBinder/obj/Debug/ios/FLIRThermalImage.g.cs" Line="232" Column="1" />
+      <File FileName="FlirThermal/ViewController.cs" Line="1" Column="19" />
+      <File FileName="FlirBindXam/ApiDefinition.cs" Line="11" Column="2" />
+      <File FileName="FlirBindXam/Structs.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FlirThermal" expanded="True">
-            <Node name="FlirThermal" expanded="True" />
+            <Node name="FlirBindXam" expanded="True">
+              <Node name="ApiDefinition.cs" selected="True" />
+            </Node>
+            <Node name="FlirThermal" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FlirThermal automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-000D0992110A802E" HideGettingStarted="True">
+  <MonoDevelop.Ide.ItemProperties.FlirThermal automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5431B067-E440-40E9-BD67-DF649963D645" HideGettingStarted="True">
     <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="5MMX9XQVAN" TeamId="KTJEFTW9H4" />
   </MonoDevelop.Ide.ItemProperties.FlirThermal>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
